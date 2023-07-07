@@ -58,3 +58,5 @@ Now working on the git changed. Now fixing my Typo Command. Now I am editing it.
 Git Edited For pull command.
 
 Just working on a feature.
+
+Now I am working on a conflict and merge.

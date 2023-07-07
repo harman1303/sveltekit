@@ -59,4 +59,8 @@ Git Edited For pull command.
 
 Just working on a feature.
 
+<<<<<<< HEAD
 Now I am working on a conflict and merge.
+=======
+I am working on a new feature.
+>>>>>>> awesome

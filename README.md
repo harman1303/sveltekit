@@ -57,7 +57,11 @@ Now working on the git changed. Now fixing my Typo Command. Now I am editing it.
 
 Git Edited For pull command.
 
+This is cool branch.
 Just working on a feature.
 
 Now I am working on a conflict and merge.
 I am working on a new feature.
+I am working on a new feature.
+
+## This is an awesome Branch.
